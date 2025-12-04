@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Über mich
+##  Über mich
 - Fachinformatiker für Anwendungsentwicklung mit Fokus auf praxisnahe Projekte  
 - DevOps-Mindset: Automatisierung, Deployments, Monitoring, saubere Prozesse  
 - Leidenschaft für klare Strukturen, wartbaren Code und dokumentierte Setups  
@@ -30,9 +30,9 @@
 
 ---
 
-## 🧰 Mein Tech Stack
+##  Mein Tech Stack
 
-### 🔗 Web & Backend
+###  Web & Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="all: unset;" />
@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" style="all: unset;" />
 </p>
 
-### 🗄️ Datenbanken
+###  Datenbanken
 
 <p align="left">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" style="all: unset;" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" style="all: unset;" />
 </p>
 
-### 🖥️ Desktop & .NET
+###  Desktop & .NET
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white" style="all: unset;" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/WinForms-0078D6?logo=windows&logoColor=white" style="all: unset;" />
 </p>
 
-### ⚙️ DevOps & Infrastruktur
+###  DevOps & Infrastruktur
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" style="all: unset;" />
@@ -71,17 +71,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> Tipp: Verlinke hier 3–6 Repos, die du später auch „pinnst“.
-
-- 🔹 **Projekt 1:** Kurzbeschreibung (Link)  
-- 🔹 **Projekt 2:** Kurzbeschreibung (Link)  
-- 🔹 **Projekt 3:** Kurzbeschreibung (Link)  
-
----
-
-## 📦 Was du hier erwarten kannst
+##  Was du hier erwarten kannst
 
 - Clean Code & nachvollziehbare Commits  
 - Dokumentation: README, Setup, Architekturentscheidungen  
