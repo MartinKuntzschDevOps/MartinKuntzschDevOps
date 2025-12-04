@@ -6,7 +6,6 @@
 
 <p align="center">
   <b>DevOps · Softwareentwicklung · Automatisierung</b><br/>
-  Ich baue stabile Systeme: von Code bis Deployment – sauber, nachvollziehbar, reproduzierbar.
 </p>
 
 <p align="center">
