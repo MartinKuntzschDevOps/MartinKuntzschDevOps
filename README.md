@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>DevOps · Softwareentwicklung · Automatisierung</b><br/>
+  <b>DevOps · Softwareentwicklung123 · Automatisierung</b><br/>
 </p>
 
 <p align="center">
