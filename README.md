@@ -23,56 +23,57 @@
 ---
 
 ## Über mich
-- Fachinformatiker für Anwendungsentwicklung mit Fokus auf praxisnahe Projekte
-- DevOps-Mindset: Automatisierung, Deployments, Monitoring, saubere Prozesse
-- Leidenschaft für klare Strukturen, wartbaren Code und dokumentierte Setups
-- Aktuell aktiv in TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung und Infrastruktur-Themen
+- Fachinformatiker für Anwendungsentwicklung mit Fokus auf praxisnahe Projekte  
+- DevOps-Mindset: Automatisierung, Deployments, Monitoring, saubere Prozesse  
+- Leidenschaft für klare Strukturen, wartbaren Code und dokumentierte Setups  
+- Aktuell aktiv in TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung und Infrastruktur-Themen  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-555555?logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smarty-FF6600?logo=smarty&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPO3-FF8700?logo=typo3&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=white" />
 </p>
 
-**Backend / Web**
-- PHP, MVC, Smarty, TYPO3, WordPress
-- SQL (z. B. SQLite/MySQL), REST-Grundlagen
+**Backend / Web**  
+- PHP, MVC, Smarty, TYPO3, WordPress  
+- SQL (z. B. SQLite/MySQL), REST-Grundlagen  
 
-**Desktop**
-- C# / .NET, WPF
+**Desktop**  
+- C# / .NET, WPF  
 
-**DevOps / Ops**
-- Linux, Docker (Compose), CI/CD mit GitHub Actions
-- Monitoring & Logging: Prometheus, Grafana, Logs
+**DevOps / Ops**  
+- Linux, Docker (Compose), CI/CD mit GitHub Actions  
+- Nextcloud als Plattform für Kollaboration & Hosting  
 
 ---
 
 ## Featured Projects
 > Tipp: Verlinke hier 3–6 Repos, die du später auch „pinnst“.
 
-- 🔹 **Projekt 1:** Kurzbeschreibung (Link)
-- 🔹 **Projekt 2:** Kurzbeschreibung (Link)
-- 🔹 **Projekt 3:** Kurzbeschreibung (Link)
+- 🔹 **Projekt 1:** Kurzbeschreibung (Link)  
+- 🔹 **Projekt 2:** Kurzbeschreibung (Link)  
+- 🔹 **Projekt 3:** Kurzbeschreibung (Link)  
 
 ---
 
 ## Was du hier erwarten kannst
-- Clean Code & nachvollziehbare Commits
-- Dokumentation: README, Setup, Architekturentscheidungen
-- Reproduzierbare Builds: CI/CD, Container, Scripts
-- Fokus auf Praxis, Usability & auditierbare Umsetzung
+- Clean Code & nachvollziehbare Commits  
+- Dokumentation: README, Setup, Architekturentscheidungen  
+- Reproduzierbare Builds: CI/CD, Container, Scripts  
+- Fokus auf Praxis, Usability & auditierbare Umsetzung  
 
 ---
 
