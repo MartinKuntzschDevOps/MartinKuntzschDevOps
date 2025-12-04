@@ -46,10 +46,9 @@
   <img src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=white" />
 </p>
 
