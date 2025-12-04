@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>DevOps · Softwareentwicklung123 · Automatisierung</b><br/>
+  <b>Ich entwickle stabile Systeme: von Code bis Deployment – sauber, nachvollziehbar, reproduzierbar. Zusätzlich betreibe ich eigene Server‑Infrastrukturen (API‑, Datenbank‑, Cloud‑ und Git‑Server) sowie Webhosting mit MVC, TYPO3 und WordPress.</b><br/>
 </p>
 
 <p align="center">
