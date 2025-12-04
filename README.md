@@ -33,14 +33,18 @@
 ## Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-555555?logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Smarty-FF6600?logo=smarty&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPO3-FF8700?logo=typo3&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
@@ -49,10 +53,11 @@
 
 **Backend / Web**  
 - PHP, MVC, Smarty, TYPO3, WordPress  
-- SQL (z. B. SQLite/MySQL), REST-Grundlagen  
+- HTML, CSS  
+- SQL (z. B. SQLite/MySQL), MariaDB, REST-Grundlagen  
 
 **Desktop**  
-- C# / .NET, WPF  
+- C# / .NET, WPF, WinForms  
 
 **DevOps / Ops**  
 - Linux, Docker (Compose), CI/CD mit GitHub Actions  
