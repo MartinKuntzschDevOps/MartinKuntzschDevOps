@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Optional: Ersetze die Links unten, wenn du willst -->
-  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/martin-kuntzsch-5650433a0/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:dein.name@example.com"><img alt="Mail" src="https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white"></a>
   <a href="https://deine-domain.tld"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-111111?logo=vercel&logoColor=white"></a>
 </p>
