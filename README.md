@@ -16,10 +16,15 @@
 </p>
 
 <p align="center">
-  <!-- Optional: Ersetze die Links unten, wenn du willst -->
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/martin-kuntzsch-5650433a0/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:dein.name@example.com"><img alt="Mail" src="https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white"></a>
-  <a href="https://deine-domain.tld"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-111111?logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/martin-kuntzsch-5650433a0/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:martin@kuntzsch.it">
+    <img alt="Email" src="https://img.shields.io/badge/Email-martin%40kuntzsch.it-333333?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://kuntzsch.it" target="_blank" rel="noopener noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/Website-kuntzsch.it-111111?logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -72,8 +77,8 @@
 ---
 
 ## 📫 Kontakt
-- LinkedIn: https://www.linkedin.com/ (Link eintragen)
-- Mail: dein.name@example.com
-- Website/Portfolio: https://deine-domain.tld
+- LinkedIn: https://www.linkedin.com/in/martin-kuntzsch-5650433a0/
+- Mail: martin@kuntzsch.it
+- Website/Portfolio: https://kuntzsch.it
 
 <!-- Ende -->
