@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/martin-kuntzsch-5650433a0/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/martin-kuntzsch-5650433a0/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:martin@kuntzsch.it">
+  <a href="mailto:martin@kuntzsch.it" style="text-decoration: none;">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white">
   </a>
-  <a href="https://kuntzsch.it" target="_blank" rel="noopener noreferrer">
+  <a href="https://kuntzsch.it" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img alt="Website" src="https://img.shields.io/badge/Website-Visit-111111?logo=vercel&logoColor=white">
   </a>
 </p>
