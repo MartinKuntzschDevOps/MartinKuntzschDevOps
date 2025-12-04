@@ -10,20 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MartinKuntzschDevOps?tab=repositories">Repos</a> ·
-  <a href="https://github.com/MartinKuntzschDevOps?tab=projects">Projects</a> ·
-  <a href="https://github.com/MartinKuntzschDevOps?tab=stars">Stars</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/martin-kuntzsch-5650433a0/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:martin@kuntzsch.it">
-    <img alt="Email" src="https://img.shields.io/badge/Email-martin%40kuntzsch.it-333333?logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white">
   </a>
   <a href="https://kuntzsch.it" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/Website-kuntzsch.it-111111?logo=vercel&logoColor=white">
+    <img alt="Website" src="https://img.shields.io/badge/Website-Visit-111111?logo=vercel&logoColor=white">
   </a>
 </p>
 
