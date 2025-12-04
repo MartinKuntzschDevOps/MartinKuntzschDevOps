@@ -23,28 +23,43 @@
 ---
 
 ## Über mich
-- Fachinformatiker Anwendungsentwicklung (Schwerpunkt: praxisnahe Projekte)
-- Fokus: **DevOps mindset** – Automatisierung, Deployments, Monitoring, saubere Prozesse
-- Ich mag: klare Strukturen, wartbaren Code, dokumentierte Setups
-- Aktuell: TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung + Infrastruktur-Themen
+- Fachinformatiker für Anwendungsentwicklung mit Fokus auf praxisnahe Projekte
+- DevOps-Mindset: Automatisierung, Deployments, Monitoring, saubere Prozesse
+- Leidenschaft für klare Strukturen, wartbaren Code und dokumentierte Setups
+- Aktuell aktiv in TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung und Infrastruktur-Themen
 
 ---
 
-## Tech Stack (Auswahl)
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPO3-FF8700?logo=typo3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
+
 **Backend / Web**
 - PHP, MVC, Smarty, TYPO3, WordPress
-- SQL (z. B. SQLite/MySQL), REST-Grundlagen
+- SQL (z. B. SQLite/MySQL), REST-Grundlagen
 
 **Desktop**
 - C# / .NET, WPF
 
 **DevOps / Ops**
-- Linux, Docker (Compose), CI/CD (GitHub Actions)
-- Monitoring/Logging (Aufbau & Interesse: Prometheus/Grafana/Logs)
+- Linux, Docker (Compose), CI/CD mit GitHub Actions
+- Monitoring & Logging: Prometheus, Grafana, Logs
 
 ---
 
-## Featured Projects (bitte ersetzen/ergänzen)
+## Featured Projects
 > Tipp: Verlinke hier 3–6 Repos, die du später auch „pinnst“.
 
 - 🔹 **Projekt 1:** Kurzbeschreibung (Link)
@@ -54,18 +69,17 @@
 ---
 
 ## Was du hier erwarten kannst
-- Clean Code + nachvollziehbare Commits
-- Dokumentation (README, Setup, Entscheidungen)
-- Reproduzierbare Builds (CI/CD, Container, Scripts)
-- Fokus auf Praxis & Umsetzbarkeit
+- Clean Code & nachvollziehbare Commits
+- Dokumentation: README, Setup, Architekturentscheidungen
+- Reproduzierbare Builds: CI/CD, Container, Scripts
+- Fokus auf Praxis, Usability & auditierbare Umsetzung
 
 ---
 
-## GitHub Stats (optional)
+## GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartinKuntzschDevOps&show_icons=true&hide_title=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKuntzschDevOps&layout=compact" alt="Top Languages" />
 </p>
-
 
 <!-- Ende -->
