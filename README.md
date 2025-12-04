@@ -23,15 +23,15 @@
 
 ---
 
-## 👋 Über mich
-- 💻 Fachinformatiker Anwendungsentwicklung (Schwerpunkt: praxisnahe Projekte)
-- ⚙️ Fokus: **DevOps mindset** – Automatisierung, Deployments, Monitoring, saubere Prozesse
-- 🧩 Ich mag: klare Strukturen, wartbaren Code, dokumentierte Setups
-- 🌱 Aktuell: TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung + Infrastruktur-Themen
+## Über mich
+- Fachinformatiker Anwendungsentwicklung (Schwerpunkt: praxisnahe Projekte)
+- Fokus: **DevOps mindset** – Automatisierung, Deployments, Monitoring, saubere Prozesse
+- Ich mag: klare Strukturen, wartbaren Code, dokumentierte Setups
+- Aktuell: TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung + Infrastruktur-Themen
 
 ---
 
-## 🧰 Tech Stack (Auswahl)
+## Tech Stack (Auswahl)
 **Backend / Web**
 - PHP, MVC, Smarty, TYPO3, WordPress
 - SQL (z. B. SQLite/MySQL), REST-Grundlagen
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Featured Projects (bitte ersetzen/ergänzen)
+## Featured Projects (bitte ersetzen/ergänzen)
 > Tipp: Verlinke hier 3–6 Repos, die du später auch „pinnst“.
 
 - 🔹 **Projekt 1:** Kurzbeschreibung (Link)
@@ -54,7 +54,7 @@
 
 ---
 
-## ✅ Was du hier erwarten kannst
+## Was du hier erwarten kannst
 - Clean Code + nachvollziehbare Commits
 - Dokumentation (README, Setup, Entscheidungen)
 - Reproduzierbare Builds (CI/CD, Container, Scripts)
@@ -62,17 +62,11 @@
 
 ---
 
-## 📊 GitHub Stats (optional)
+## GitHub Stats (optional)
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartinKuntzschDevOps&show_icons=true&hide_title=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKuntzschDevOps&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-## 📫 Kontakt
-- LinkedIn: https://www.linkedin.com/in/martin-kuntzsch-5650433a0/
-- Mail: martin@kuntzsch.it
-- Website/Portfolio: https://kuntzsch.it
 
 <!-- Ende -->
