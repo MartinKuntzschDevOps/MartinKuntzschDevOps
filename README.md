@@ -1,7 +1,7 @@
 <!-- Profile README for: MartinKuntzschDevOps -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Martin Kuntzsch – DevOps" width="100%" />
+  <img src="banner.svg" alt="Martin Kuntzsch Banner" />
 </p>
 
 <p align="center">
