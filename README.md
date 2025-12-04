@@ -22,7 +22,7 @@
 
 ---
 
-## Über mich
+## 🧠 Über mich
 - Fachinformatiker für Anwendungsentwicklung mit Fokus auf praxisnahe Projekte  
 - DevOps-Mindset: Automatisierung, Deployments, Monitoring, saubere Prozesse  
 - Leidenschaft für klare Strukturen, wartbaren Code und dokumentierte Setups  
@@ -30,9 +30,11 @@
 
 ---
 
-## Tech Stack
+## 🧰 Mein Tech Stack
 
-<p align="center">
+### 🔗 Web & Backend
+
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
@@ -40,11 +42,26 @@
   <img src="https://img.shields.io/badge/Smarty-FF6600?logo=smarty&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPO3-FF8700?logo=typo3&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+</p>
+
+### 🗄️ Datenbanken
+
+<p align="left">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" />
+</p>
+
+### 🖥️ Desktop & .NET
+
+<p align="left">
   <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-0078D6?logo=windows&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & Infrastruktur
+
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
@@ -52,21 +69,10 @@
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=white" />
 </p>
 
-**Backend / Web**  
-- PHP, MVC, Smarty, TYPO3, WordPress  
-- HTML, CSS  
-- SQL (z. B. SQLite/MySQL), MariaDB, REST-Grundlagen  
-
-**Desktop**  
-- C# / .NET, WPF, WinForms  
-
-**DevOps / Ops**  
-- Linux, Docker (Compose), CI/CD mit GitHub Actions  
-- Nextcloud als Plattform für Kollaboration & Hosting  
-
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
 > Tipp: Verlinke hier 3–6 Repos, die du später auch „pinnst“.
 
 - 🔹 **Projekt 1:** Kurzbeschreibung (Link)  
@@ -75,7 +81,8 @@
 
 ---
 
-## Was du hier erwarten kannst
+## 📦 Was du hier erwarten kannst
+
 - Clean Code & nachvollziehbare Commits  
 - Dokumentation: README, Setup, Architekturentscheidungen  
 - Reproduzierbare Builds: CI/CD, Container, Scripts  
@@ -83,7 +90,8 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartinKuntzschDevOps&show_icons=true&hide_title=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKuntzschDevOps&layout=compact" alt="Top Languages" />
