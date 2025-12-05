@@ -1,0 +1,40 @@
+name: Generate GitHub stats images
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # täglich 03:00 CET (UTC+1/2 beachten)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: MartinKuntzschDevOps
+          THEME: github_dark
+
+      - name: Prepare assets folder
+        run: |
+          mkdir -p assets
+          cp -f profile-summary-card-output/markdown/0-profile-details.svg assets/github-stats.svg || true
+          cp -f profile-summary-card-output/markdown/2-most-commit-language.svg assets/top-languages.svg || true
+
+      - name: Commit generated images
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/github-stats.svg assets/top-languages.svg
+            git commit -m "chore(stats): update GitHub stats SVGs"
+            git push
+          fi
