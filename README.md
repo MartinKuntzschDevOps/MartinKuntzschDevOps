@@ -37,6 +37,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="all: unset;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="all: unset;" />
+  <img src="https://img.shields.io/badge/SCSS-CD6799?logo=scss&logoColor=white" style="all: unset;" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" style="all: unset;" />
   <img src="https://img.shields.io/badge/MVC-555555?logo=codeigniter&logoColor=white" style="all: unset;" />
   <img src="https://img.shields.io/badge/Smarty-FF6600?logo=smarty&logoColor=white" style="all: unset;" />
