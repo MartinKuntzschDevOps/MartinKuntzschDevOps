@@ -21,10 +21,9 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: github_dark
         with:
           USERNAME: MartinKuntzschDevOps
-          AUTO_PUSH: false   # wichtig!
+          AUTO_PUSH: false
 
       - name: Prepare assets folder
         run: |
