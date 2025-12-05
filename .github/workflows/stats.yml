@@ -23,7 +23,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: MartinKuntzschDevOps
-          AUTO_PUSH: false
+          AUTO_PUSH: false   # verhindert Push-Konflikte
 
       - name: Prepare assets folder
         run: |
