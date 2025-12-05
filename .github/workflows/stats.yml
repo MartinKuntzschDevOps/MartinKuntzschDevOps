@@ -38,4 +38,4 @@ jobs:
           git add assets/github-stats.svg assets/top-languages.svg
           git commit -m "chore(stats): update GitHub stats SVGs" || echo "Nothing to commit"
           git pull origin main --rebase
-          git push origin HEAD:main
+          git push origin main
