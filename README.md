@@ -22,16 +22,16 @@
 
 ---
 
-## 🧠 Über mich
+##  Über mich
 
-- Fachinformatiker für Anwendungsentwicklung mit Fokus auf praxisnahe Projekte  
-- DevOps-Mindset: Automatisierung, Deployments, Monitoring, saubere Prozesse  
-- Leidenschaft für klare Strukturen, wartbaren Code und dokumentierte Setups  
-- Aktuell aktiv in TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugin-Entwicklung und Infrastruktur-Themen  
+- Clean Code, reproduzierbare Deployments, auditierbare Prozesse  
+- DevOps-Mindset: Automatisierung, CI/CD, Monitoring  
+- Dokumentierte Setups, klare Architekturentscheidungen  
+- Aktiv in TYPO3, PHP/MVC, WPF/.NET, WordPress-Plugins und Infrastruktur  
 
 ---
 
-## 🛠️ Mein Tech Stack
+##  Mein Tech Stack
 
 ### Web & Backend
 
@@ -73,23 +73,14 @@
 
 ---
 
-## 🔍 Was du hier erwarten kannst
-
-- Clean Code & nachvollziehbare Commits  
-- Dokumentation: README, Setup, Architekturentscheidungen  
-- Reproduzierbare Builds: CI/CD, Container, Scripts  
-- Fokus auf Praxis, Usability & auditierbare Umsetzung  
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://github.com/MartinKuntzschDevOps">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartinKuntzschDevOps&show_icons=true&hide_title=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+    <img height="160" src="./assets/github-stats.svg" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/MartinKuntzschDevOps">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKuntzschDevOps&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+    <img height="160" src="./assets/top-languages.svg" alt="Top Languages" />
   </a>
 </p>
 
