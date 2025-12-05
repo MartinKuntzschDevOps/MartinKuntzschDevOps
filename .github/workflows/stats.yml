@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # wichtig für Push
+          fetch-depth: 0
 
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -24,6 +24,7 @@ jobs:
           THEME: github_dark
         with:
           USERNAME: MartinKuntzschDevOps
+          AUTO_PUSH: false   # wichtig!
 
       - name: Prepare assets folder
         run: |
