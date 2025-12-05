@@ -81,11 +81,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartinKuntzschDevOps&show_icons=true&hide_title=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKuntzschDevOps&layout=compact" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartinKuntzschDevOps&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats" onerror="this.style.display='none'" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinKuntzschDevOps&layout=compact&theme=dark" alt="Top Languages" onerror="this.style.display='none'" />
 </p>
 
 <!-- Ende -->
